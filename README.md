@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tbarbazuk
+- 👋 Hi, I’m Thomas Barbazuk @tbarbazuk
 - 👀 I’m interested in computational biology and genomics
 - 📫 How to reach me: tbbarbazuk@gmail.com , thomas.barbazuk@mail.utoronto.ca
 - 😄 Pronouns: He/They
