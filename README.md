@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas Barbazuk @tbarbazuk
-- 👀 I’m interested in computational biology and genomics
+- 👀 I’m interested in exploring the human genome with computational approaches.
 - 📫 How to reach me: tbbarbazuk@gmail.com , thomas.barbazuk@mail.utoronto.ca
 - 😄 Pronouns: He/They
 
